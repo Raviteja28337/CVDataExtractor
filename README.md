@@ -8,10 +8,7 @@ This project utilizes Optical Character Recognition (OCR) and OpenAI's language 
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [License](#license)
+
 
 ## Features
 
@@ -27,14 +24,4 @@ This project utilizes Optical Character Recognition (OCR) and OpenAI's language 
 - OpenAI's GPT-4 model
 - LangChain
 - PIL (Pillow)
-- CSV
 
-## Installation
-
-To set up the project, follow these steps:
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
