@@ -1,6 +1,5 @@
 # CVDataExtractor
 
-# Resume Data Extraction Project
 
 This project utilizes Optical Character Recognition (OCR) and OpenAI's language model to extract structured data from resumes. The extracted information includes candidate details, educational background, work experience, skills, awards, certifications, and projects.
 
